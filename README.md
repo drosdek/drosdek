@@ -1,8 +1,3 @@
-# Josnei Drosdek
-### Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software
-
-
-
 <!--
 **drosdek/drosdek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +16,20 @@ Here are some ideas to get you started:
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png">
 
 <br>
+<br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Josnei Drosdek</h1>
+ <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
+ <br>
+ <a href="https://www.instagram.com/josneidrosdek">
+    <img  align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/josneidrosdek">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar_2.png">
