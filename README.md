@@ -18,15 +18,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Avatar](https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png)
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png">
 
 ## Hello, Devs!!
 
-Tenho 29 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+💬 Tenho 31 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar_2.png" width="350">
 </p>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "ReactJS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title = "NodeJS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+
+<a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
 <p align="center">
