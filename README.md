@@ -23,10 +23,10 @@ Here are some ideas to get you started:
  <h1 align="left">Josnei Drosdek</h1>
  <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
  <br>
- <a href="https://www.instagram.com/josneidrosdek">
+ <a target="_blank" href="https://www.instagram.com/josneidrosdek">
     <img  align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a>
-  <a href="https://www.linkedin.com/in/josneidrosdek">
+  <a target="_blank" href="https://www.linkedin.com/in/josneidrosdek">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<br>
+<br>
+
 
 ##
 <p align="center">
