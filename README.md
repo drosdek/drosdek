@@ -1,4 +1,7 @@
-### Hi there 👋
+# Josnei Drosdek
+### Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software
+
+
 
 <!--
 **drosdek/drosdek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
