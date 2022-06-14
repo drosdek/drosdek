@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 💬 Tenho 31 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
-<p align="center">
-  <img src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png" width="350">
-</p>
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar_2.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
