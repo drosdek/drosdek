@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drosdek&theme=tokyonight&show_icons=true)
