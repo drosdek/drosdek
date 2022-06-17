@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<br>
+<br>
+<br>
 
 ### 🖥️ Tecnologias e Ferramentas:
 
@@ -56,10 +59,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-<a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
 <br>
 <br>
 
