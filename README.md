@@ -23,9 +23,18 @@ Here are some ideas to get you started:
   <h1 align="left">Josnei Drosdek</h1>
   <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
   <br>
+  <div display="inline-block">
+ <p align="left">💬 Tenho 31 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!</p>
+ <p align="left">📚 Tenho estudado JS e iniciei meus estudos para desenvolver aplicações fullstack;</p>
+  <p align="left">🌱 Atualmente estou aprendendo sobre o universo de Arquitetura de     Microserviços e APIs;</p>
+ <p align="left">☕🎮 só acordo com café, adoro games e me empolgo com uma boa história.</p>
+</div>
+<br>
   <a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
   <a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
+
+<br>
 
 ### 🖥️ Tecnologias e Ferramentas:
 
@@ -47,13 +56,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-<div display="inline-block">
- <p align="left">💬 Tenho 31 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!</p>
- <p align="left">📚 Tenho estudado JS e iniciei meus estudos para desenvolver aplicações fullstack;</p>
-  <p align="left">🌱 Atualmente estou aprendendo sobre o universo de Arquitetura de     Microserviços e APIs;</p>
- <p align="left">☕🎮 só acordo com café, adoro games e me empolgo com uma boa história.</p>
-</div>
 
 <a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
