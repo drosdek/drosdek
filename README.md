@@ -13,26 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png">
+<!-- <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar.png"> -->
 
 <br>
 <br>
 
 <div dsplay="inline-block">
  
- <h1 align="left">Josnei Drosdek</h1>
- <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
- <br>
- <a target="_blank" href="https://www.instagram.com/josneidrosdek">
-    <img  align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/josneidrosdek">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+  <h1 align="left">Josnei Drosdek</h1>
+  <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
+  <br>
+  <a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
 
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar_2.png">
+### 🖥️ Tecnologias e Ferramentas:
+
+<!-- <img width="300px" align="right" src="https://github.com/drosdek/drosdek/blob/main/assets/img/avatar_2.png"> -->
 
 <br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -58,17 +55,14 @@ Here are some ideas to get you started:
  <p align="left">☕🎮 só acordo com café, adoro games e me empolgo com uma boa história.</p>
 </div>
 
-
-🌱 Atualmente estou aprendendo sobre o universo de microserviços e APIs
-
 <a href="https://www.instagram.com/josneidrosdek/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/josneidrosdek/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <br>
 <br>
 
-
 ##
+
 <p align="center">
 <a href="https://github.com/drosdek">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drosdek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
