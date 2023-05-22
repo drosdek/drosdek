@@ -6,7 +6,7 @@
   <h1 align="left">Josnei Drosdek</h1>
   <p>Meu nome é Josnei Drosdek e sou formado em 👨🏻‍🎓 Engenharia de Software</P>
   <br>
-  <p align="left">💬 Tenho 31 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!</p>
+  <p align="left">💬 Tenho 32 anos, moro em Rio Negro - PR e sou apaixonado por programação e tudo que envolva tecnologia! Sou eterno estudante do universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!</p>
   <p align="left">📚 Tenho estudado JS e iniciei meus estudos para desenvolver aplicações fullstack;</p>
   <p align="left">🌱 Atualmente estou aprendendo sobre o universo de Arquitetura de     Microserviços e APIs;</p>
   <p align="left">☕🎮 só acordo com café, adoro games e me empolgo com uma boa história.</p>
