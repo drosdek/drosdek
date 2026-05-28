@@ -124,7 +124,7 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api?username=drosdek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=server" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
