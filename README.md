@@ -123,13 +123,8 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/drosdek?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=1a1b27" alt="Followers" />
-<img src="https://img.shields.io/github/stars/drosdek?style=for-the-badge&logo=github&label=Stars&color=8B5CF6&labelColor=1a1b27&affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" alt="Stars" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drosdek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api?username=drosdek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
