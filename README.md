@@ -1,16 +1,3 @@
-<!--
-  GitHub Profile README — drosdek
-  -------------------------------------------------
-  Cole este arquivo como README.md em um repositório
-  público com o mesmo nome do seu usuário: github.com/drosdek/drosdek
-  Ele aparecerá automaticamente no topo do seu perfil.
-
-  Antes de publicar:
-    1) Escolher UMA das 3 headlines abaixo (apague as outras).
-    2) Commitar a pasta ./assets/ junto deste README no repo drosdek/drosdek.
-    3) (Opcional) Trocar o tema dos cards: tokyonight | dracula | github_dark | radical | nord.
--->
-
 <div align="center">
 
 <a href="https://github.com/drosdek">
