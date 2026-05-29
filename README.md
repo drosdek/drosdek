@@ -19,21 +19,13 @@
 
 </div>
 
-<!--
-  HEADLINES (escolha uma, apague as outras)
-  -----------------------------------------
-  1) Senior Software Engineer focado em IA e plataformas backend.
-  2) Builder de plataformas de IA governadas — do agente ao deploy.
-  3) Engenheiro full-stack 360°: Backend, AI, Cloud e Frontend.
--->
-
 ## Sobre mim
 
 Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo **plataformas de IA governadas**, APIs robustas em **Node.js/NestJS** e infraestrutura cloud-native.
 
 - Foco atual: orquestração de agentes, MCP, e arquiteturas multi-agente confiáveis em produção
 - Stack diária: **TypeScript · NestJS · Docker · Kubernetes · React/Next.js · Python · Go**
-- O que me move: software de qualidade industrial — testado, observável e mantível
+- O que me move: software de qualidade — testado, observável e mantível
 - Contato: [josneidrosdek@gmail.com](mailto:josneidrosdek@gmail.com)
 
 ---
@@ -115,12 +107,6 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
 
 ## Projetos em destaque
 
-<!--
-  As imagens abaixo apontam para ./assets/*.svg
-  Lembre-se de commitar a pasta `assets/` junto deste README
-  no repositório github.com/drosdek/drosdek.
--->
-
 <table align="center">
   <tr>
     <td align="center" width="240">
@@ -129,9 +115,11 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
       <b>Tethys</b>
     </td>
     <td align="center" width="240">
-      <img src="./assets/clinikify-logo.svg" width="120" alt="Clinikify" />
-      <br/>
-      <b>Clinikify</b>
+      <a href="https://www.clinikify.com">
+        <img src="./assets/clinikify-logo.svg" width="120" alt="Clinikify" />
+        <br/>
+        <b>Clinikify</b>
+      </a>
     </td>
   </tr>
 </table>
@@ -154,8 +142,8 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api?username=drosdek&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api?username=drosdek&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-two-zeta-64.vercel.app/api/top-langs/?username=drosdek&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -183,6 +171,6 @@ Sou **Josnei Rosdek**, Senior Software Engineer brasileiro. Projeto e construo *
 
 <sub align="center">
 
-<p align="center"><i>“Software de qualidade industrial: testado, observável, mantível.”</i></p>
+<p align="center"><i>“Software de qualidade: testado, observável, mantível.”</i></p>
 
 </sub>
